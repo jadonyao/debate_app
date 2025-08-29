@@ -5,7 +5,7 @@
 
 <h2>Features</h2>
 
-<h4>Variet of AI implemented incuding ChatGPT and Whisper AI<h4>
+<h4>Variety of AI implemented incuding ChatGPT and Whisper AI<h4>
 <h4>Variety of topics to choose from</h4>
 <h4>AI-generated arguments</h4>
 <h4>Logic mini games</h4>
