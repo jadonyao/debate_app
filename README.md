@@ -17,3 +17,16 @@
 - Each message includes a **copy** button and **refresh** option to regenerate AI responses.
 
 ---
+- Unlike traditional tools that rely on judges or lectures, SpeakUp gives **personalized**, **real-time**, and **interactive** feedback anytime.
+- Kids and teens stay engaged with logic games instead of boring text or videos.
+- Built-in recording and feedback means **no more incomplete ballots** or long waits for evaluation.
+
+---
+
+## 📈 Results
+
+- Be more prepared for debate tournaments or real-life arguments.
+- Build **confidence**, **clarity**, and **persuasiveness**.
+- Improve logic **while having fun**!
+
+---
