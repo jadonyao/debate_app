@@ -1,12 +1,19 @@
-<h1>SpeakUp: A Debate App</h1>
+**SpeakUp** is a comprehensive debate app designed to help debaters—especially students—improve their logical reasoning and argumentation skills through fun, interactive AI features.
+### 🎙️ Voice-Based Argument Evaluation
 
-<h2>Abilities</h2>
-<h3>Help seasoned or amateur debaters build their debate skills with through different features and abilities</h3>
+- Long-press the mic icon to record your argument.
+- AI transcribes your voice using **OpenAI's Whisper API**.
+- The app summarizes your argument and gives feedback powered by **GPT-4o**.
 
-<h2>Features</h2>
+### 🎮 Logic Game Mode
 
-<h4>Variety of AI implemented incuding ChatGPT and Whisper AI<h4>
-<h4>Variety of topics to choose from</h4>
-<h4>AI-generated arguments</h4>
-<h4>Logic mini games</h4>
-<h4>Microphone to practice giving speeches</h4>
+- Play a game where GPT generates silly or funny questions.
+- Learn how to identify logical flaws and sharpen reasoning skills.
+- Each round includes 5 questions with score tracking.
+
+### 📝 Chat-Based Feedback
+
+- Get real-time feedback from AI in a chat format.
+- Each message includes a **copy** button and **refresh** option to regenerate AI responses.
+
+---
