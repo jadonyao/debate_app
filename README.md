@@ -30,3 +30,51 @@
 - Improve logic **while having fun**!
 
 ---
+
+## 🛠️ Tech Stack
+
+| Component       | Technology                    |
+| --------------- | ----------------------------- |
+| Frontend        | React Native (Expo)           |
+| Voice Recording | `expo-av`, `expo-file-system` |
+| AI Integration  | OpenAI Whisper API + GPT-3.5 turbo API   |
+| Styling         | React Native StyleSheet       |
+| Icons           | `react-native-vector-icons`   |
+
+---
+2. Set up your OpenAI API key
+Create openai_api_key.ts file in the component folder
+Put your key in the file:
+   ```
+   export const OPENAI_API_KEY ='<Your OpenAI API Key>'
+   ```
+## Project Structure
+
+```
+.
+├── app
+│   ├── _layout.tsx
+│   ├── (tabs)
+│   ├── +not-found.tsx
+│   ├── debate.tsx
+│   ├── evaluate_new.tsx
+│   ├── evaluate.tsx
+│   ├── game.tsx
+│   └── gameOLD.tsx
+├── app.json
+├── assets
+│   ├── fonts
+│   └── images
+├── components
+│   └── openai.ts
+├── eslint.config.js
+├── expo-env.d.ts
+├── ios
+│   ├── debateapppre
+│   ├── debateapppre.xcodeproj
+│   ├── Podfile
+│   └── Podfile.properties.json
+├── package-lock.json
+├── package.json
+├── README.md
+└── tsconfig.json
